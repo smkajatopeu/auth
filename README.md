@@ -1,5 +1,5 @@
-# Authorization with React Native & Firebase
-### Sign-in method Email & Password
+# Authorization with React Native & Firebase without expo-cli
+### Sign-in method Email & Password 
 > ### Usage
 ```
 Firebase (v9.9.0)
