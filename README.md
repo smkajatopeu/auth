@@ -53,3 +53,5 @@ yarn start
 ```
 > and then 
 > Open the application on your phone in order to connect the device to the project
+
+# гугл переводчик аман болсын
