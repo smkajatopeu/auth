@@ -29,11 +29,11 @@ but it is possible with a real device, the instruction is given at the bottom of
 
 > <img src='https://github.com/smkajatopeu/auth/blob/main/src/assets/LoginScreen.jpg' width='250' height='500' /> <img src='https://github.com/smkajatopeu/auth/blob/main/src/assets/RegisterScreen.jpg' width='250' height='500' /> <img src='https://github.com/smkajatopeu/auth/blob/main/src/assets/HomeScreen.jpg' width='250' height='500' />
 _____
-## Launching a project on a real device via usb cable
+## Launching a project on a real device via USB cable
 
-> Connect usb cable to computer/laptop;
+> Connect USB cable to computer/laptop;
 
-> Then in the device > developer settings, enable the developer option usb debugging;
+> Then in the device > developer settings, enable the developer option USB debugging;
 
 > We go into Android Studio, pen the android folder into project;
 
