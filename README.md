@@ -13,6 +13,6 @@ react-native-screens
 git clone https://github.com/smkajatopeu/auth.git
 cd auth/
 yarn
-yarn start or npm start
+yarn start
 ```
 > <img src='https://github.com/smkajatopeu/auth/blob/main/src/assets/LoginScreen.jpg' width='250' height='500' /> <img src='https://github.com/smkajatopeu/auth/blob/main/src/assets/RegisterScreen.jpg' width='250' height='500' /> <img src='https://github.com/smkajatopeu/auth/blob/main/src/assets/HomeScreen.jpg' width='250' height='500' />
