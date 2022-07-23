@@ -3,7 +3,7 @@
 > ### Usage
 ```
 Firebase (v9.9.0)
-@react-navigation/native,
+@react-navigation/native
 @react-navigation/native-stack
 react-native-safe-area-context
 react-native-screens
